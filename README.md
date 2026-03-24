@@ -103,4 +103,4 @@ I build end-to-end AI and ML systems — from classical machine learning and dee
 
 ## 📬 Connect with Me
 
-- [GitHub — Charu305](https://github.com/Charu305)
+- [GitHub — Charu305](https://github.com/Durai)
